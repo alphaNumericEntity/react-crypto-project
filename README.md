@@ -1,5 +1,6 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 inspired from https://youtu.be/QA6oTpMZp84
+
 ## Built with 
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
